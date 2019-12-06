@@ -1,4 +1,4 @@
-// If you are reading this in plaintext or on PyPi:
+zd // If you are reading this in plaintext or on PyPi:
 //
 // A rendered version is available at:
 // https://github.com/qutebrowser/qutebrowser/blob/master/README.asciidoc
